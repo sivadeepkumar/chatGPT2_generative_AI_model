@@ -1,0 +1,1 @@
+# chatGPT2_generative_AI_model
